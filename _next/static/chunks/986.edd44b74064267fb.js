@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[986],{57986:e=>{e.exports=JSON.parse('{"name":"Demo Store","favicon_url":"https://commercelayer.io/favicon.ico","primary_color":"#666EFF"}')}}]);
